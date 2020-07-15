@@ -1,6 +1,5 @@
 ﻿using AnimalTypeClassLibrary;
 using Savanna.Animals.Predators;
-
 using Xunit;
 
 namespace SavannaTests
