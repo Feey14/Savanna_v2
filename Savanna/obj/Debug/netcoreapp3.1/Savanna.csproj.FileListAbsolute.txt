@@ -1,0 +1,36 @@
+C:\Users\Edgar Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.exe
+C:\Users\Edgar Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.deps.json
+C:\Users\Edgar Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.runtimeconfig.json
+C:\Users\Edgar Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.runtimeconfig.dev.json
+C:\Users\Edgar Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.dll
+C:\Users\Edgar Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.pdb
+C:\Users\Edgar Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.csprojAssemblyReference.cache
+C:\Users\Edgar Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.AssemblyInfoInputs.cache
+C:\Users\Edgar Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.AssemblyInfo.cs
+C:\Users\Edgar Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.dll
+C:\Users\Edgar Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.pdb
+C:\Users\Edgar Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.genruntimeconfig.cache
+C:\Users\Edgar Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.pdb
+C:\Users\Edgar Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Edgar Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.csproj.CopyComplete
+C:\Users\Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.exe
+C:\Users\Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.deps.json
+C:\Users\Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.runtimeconfig.json
+C:\Users\Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.runtimeconfig.dev.json
+C:\Users\Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.dll
+C:\Users\Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\Savanna.pdb
+C:\Users\Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.csprojAssemblyReference.cache
+C:\Users\Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.AssemblyInfoInputs.cache
+C:\Users\Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.AssemblyInfo.cs
+C:\Users\Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.csproj.CoreCompileInputs.cache
+C:\Users\Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.csproj.CopyComplete
+C:\Users\Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.dll
+C:\Users\Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.pdb
+C:\Users\Bondar\source\repos\Savanna\obj\Debug\netcoreapp3.1\Savanna.genruntimeconfig.cache
+C:\Users\Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.dll
+C:\Users\Bondar\source\repos\Savanna\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.pdb

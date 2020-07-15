@@ -1,0 +1,48 @@
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.deps.json
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.pdb
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csprojAssemblyReference.cache
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.AssemblyInfo.cs
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csproj.CopyComplete
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.pdb
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.deps.json
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.pdb
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csprojAssemblyReference.cache
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.AssemblyInfo.cs
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csproj.CopyComplete
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.pdb
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.deps.json
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.dll
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.pdb
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csprojAssemblyReference.cache
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.AssemblyInfo.cs
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csproj.CopyComplete
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.dll
+C:\Users\Bondar\source\repos\AnimalsClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.pdb
+C:\Users\Bondar\source\repos\AnimalClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.deps.json
+C:\Users\Bondar\source\repos\AnimalClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.dll
+C:\Users\Bondar\source\repos\AnimalClassLibrary\bin\Debug\netcoreapp3.1\AnimalsClassLibrary.pdb
+C:\Users\Bondar\source\repos\AnimalClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Bondar\source\repos\AnimalClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Bondar\source\repos\AnimalClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csprojAssemblyReference.cache
+C:\Users\Bondar\source\repos\AnimalClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Bondar\source\repos\AnimalClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.AssemblyInfo.cs
+C:\Users\Bondar\source\repos\AnimalClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bondar\source\repos\AnimalClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.csproj.CopyComplete
+C:\Users\Bondar\source\repos\AnimalClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.dll
+C:\Users\Bondar\source\repos\AnimalClassLibrary\obj\Debug\netcoreapp3.1\AnimalsClassLibrary.pdb

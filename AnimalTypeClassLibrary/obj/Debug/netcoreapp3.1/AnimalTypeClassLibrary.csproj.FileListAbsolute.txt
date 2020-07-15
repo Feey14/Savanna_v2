@@ -1,0 +1,27 @@
+C:\Users\Edgar Bondar\source\repos\AnimalTypeClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.deps.json
+C:\Users\Edgar Bondar\source\repos\AnimalTypeClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\AnimalTypeClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Edgar Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.csprojAssemblyReference.cache
+C:\Users\Edgar Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Edgar Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.AssemblyInfo.cs
+C:\Users\Edgar Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalTypeClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.deps.json
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalTypeClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalTypeClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.csprojAssemblyReference.cache
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.AssemblyInfo.cs
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Edgar Bondar\source\repos\Savanna\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Bondar\source\repos\AnimalTypeClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.deps.json
+C:\Users\Bondar\source\repos\AnimalTypeClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Bondar\source\repos\AnimalTypeClassLibrary\bin\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
+C:\Users\Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.csprojAssemblyReference.cache
+C:\Users\Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.AssemblyInfo.cs
+C:\Users\Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.dll
+C:\Users\Bondar\source\repos\AnimalTypeClassLibrary\obj\Debug\netcoreapp3.1\AnimalTypeClassLibrary.pdb
